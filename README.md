@@ -1,5 +1,19 @@
-# Steganography
-Made using java swing
+# Java Steganography
 
-Simply input a text and encode click encode to encode it into an image of your choice
-Decode to decode the encoded image
+A GUI-based steganography application built using Java Swing.
+
+## Features
+- Hide text messages inside images
+- Extract hidden messages from images
+- Simple graphical interface
+
+## Requirements
+- JDK 8 or later
+
+## Compile
+
+javac StegoFrame.java
+
+## Run
+
+java StegoFrame
